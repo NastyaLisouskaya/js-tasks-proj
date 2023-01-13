@@ -1,0 +1,11 @@
+{
+  "name": "lisouskaya-js-tasks",
+  "version": "1.0.0",
+  "description": "Hometask project fot AQA JS course",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anastasia Lisouskaya",
+  "license": "ISC"
+}
